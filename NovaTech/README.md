@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a atividade prática de criação de layout responsivo com **CSS Flexbox**.
 
-## 🛠️ Conceitos de Flexbox Aplicados
+## Conceitos de Flexbox
 
 - **`display: flex;`**: Aplicado nas seções `header`, `hero`, `services-container`, `about`, `contact-form` e `footer`.
 - **`flex-direction`**: Utilizado em modo `row` para organizar itens lado a lado em telas grandes e alterado para `column` via media queries no layout mobile.
